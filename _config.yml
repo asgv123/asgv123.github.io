@@ -1,7 +1,7 @@
 # Site settings
-title: Richard Feynman
+title: Andrew's Website
 email: richard@university.edu
-description: Academic webpage of Dr. Richard Feynman
+description: Academic webpage of Andrew 
 baseurl: ""
 url: https://asgv123.github.io
 
@@ -12,8 +12,7 @@ url: https://asgv123.github.io
 
 # Footer info
 affiliation: >
-  Andrews George Varghese<br/>
-  Professor of Physics
+  Andrews George Varghese
 
 location: >
   California Institute of Technology<br/>
