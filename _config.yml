@@ -2,8 +2,8 @@
 title: Richard Feynman
 email: richard@university.edu
 description: Academic webpage of Dr. Richard Feynman
-baseurl: "asgv123.github.io"
-url: "asgv123.github.io"
+baseurl: ""
+url: https://asgv123.github.io
 
 # Google analytics ID: Uncomment and your own, if you like
 # google_analytics: XX
@@ -12,9 +12,8 @@ url: "asgv123.github.io"
 
 # Footer info
 affiliation: >
-  Richard Feynman<br/>
-  Professor of Physics<br/>
-  California Institute of Technology
+  Andrews George Varghese<br/>
+  Professor of Physics
 
 location: >
   California Institute of Technology<br/>
