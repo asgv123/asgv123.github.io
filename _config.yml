@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "-(Andrews' Website)-"
+title                    : "\_(andy's home)_/"
 title_separator          : "-"
-name                     : &name "Andrew"
-description              : &description "personal description"
+name                     : &name "Andrews"
+description              : &description "eat. code. pray. repeat."
 url                      : https://asgv123.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -22,11 +22,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Andrews Varghese"
+  name             : "Andrews George<br>Varghese"
   pronouns         : # example: "she/her"  
-  bio              : "i am a happy boi"
+  bio              : "eat. code. pray. repeat."
   location         : "South Korea"
-  employer         : "Samsung"
+  employer         : "Samsung Electronics"
   uri              : # URL
   email            : "asgv321.grad@gmail.com" 
 
@@ -113,9 +113,9 @@ staticman:
     email                : "md5"
   generatedFields:
     date:
-      type               : "date"
-      options:
-        format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
+      type               : "string"
+      # options:
+        # format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
   hide                   : false     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
