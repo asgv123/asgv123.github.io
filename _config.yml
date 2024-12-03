@@ -215,13 +215,10 @@ collections:
   taship:
     output: true
     permalink: /:collection/:path/
-  work_experience:
-    output: true
-    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  workex:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -265,10 +262,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _workex
   - scope:
       path: ""
-      type: portfolio
+      type: workex
     values:
       layout: single
       author_profile: true

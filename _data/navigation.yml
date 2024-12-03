@@ -14,11 +14,11 @@ main:
   - title: "Teaching Assistantship"
     url: /taship/    
     
-  # - title: "Portfolio"
-  #   url: /portfolio/
-        
   - title: "Work Experience"
-    url: /work_experience/
+    url: /workex/
+        
+  # - title: "Blogs"
+  #   url: /blog/
     
   - title: "Resume"
     url: /cv/
