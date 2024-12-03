@@ -1,11 +1,25 @@
 ---
 layout: archive
-title: "CV"
+title: "Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
-
-<iframe src="/files/resume.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
-You can download a PDF copy of my CV [here](/files/resume.pdf).
+You can view and download my resume from the preview below or open it in full-screen [here](/files/resume.pdf).
+<!-- https://help.zoho.com/portal/en/community/topic/finally-100-responsive-iframe-for-html-page-snippet -->
+<br>
+<style>
+.parent-container {
+	display: flex;
+	width: 100%;
+	height: calc(100vh);
+ }
+.child-container {
+	flex: 1;
+	margin: 0px;
+}
+</style>
+<div class="parent-container">
+	<iframe src="/files/resume.pdf" frameborder="0" allowfullscreen class="child-container"></iframe>
+</div>
