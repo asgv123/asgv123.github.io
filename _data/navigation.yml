@@ -18,7 +18,7 @@ main:
   #   url: /portfolio/
         
   - title: "Work Experience"
-    url: /year-archive/
+    url: /work_experience/
     
   - title: "CV"
     url: /cv/

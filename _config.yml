@@ -215,6 +215,9 @@ collections:
   taship:
     output: true
     permalink: /:collection/:path/
+  work_experience:
+    output: true
+    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
@@ -235,10 +238,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
       comments: true
       share: true
-      related: true
   # _pages
   - scope:
       path: ""
