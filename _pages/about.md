@@ -14,7 +14,12 @@ I hope to remove this note by Feb 2, 2025 ^^
 
 ---
 
-I’m Andrews. I'm a <??? I don't think I have a single phrase to sum my interests. Yet>. 
+I’m Andrews. I'm <??? I don't think I have a single phrase to sum my interests. Yet>.
+But I do have a quote I really like. It is credited to the great Tamil poetess Avvaiyar and speaks a simple yet profound truth.
+>கற்றது கைமண் அளவு, கல்லாதது உலகளவு
+What we have learnt is the size of a fistful of sand, but what we do not know is the size of the world!
+
+This is why I conciously make choices every day to explore new things, even if they are hard, and I am glad to have met many like-minded people along the way.
 
 I currently work at Samsung Electronics where I design high-performance algorithms for 5G networks. At IIT, I was part of team AUV-IITB's software division before becoming team lead. I had the pleasure to work with some brilliant minds over there who are now my closest friends. I have also explored quite a bit of RL through courses and projects, and have recently been building my intuition through self-study. I aim to work at the intersection of RL, systems and robotics, using each other's insights to create a greater whole.
 
