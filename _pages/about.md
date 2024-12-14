@@ -16,8 +16,8 @@ I hope to remove this note by Feb 2, 2025 ^^
 
 I’m Andrews. I'm <??? I don't think I have a single phrase to sum my interests. Yet>.
 But I do have a quote I really like. It is credited to the great Tamil poetess Avvaiyar and speaks a simple yet profound truth.
->கற்றது கைமண் அளவு, கல்லாதது உலகளவு
-What we have learnt is the size of a fistful of sand, but what we do not know is the size of the world!
+>கற்றது கைமண் அளவு, கல்லாதது உலகளவு  
+What we have learnt is but the size of a fistful of sand, but what we do not know is the size of the world!
 
 This is why I conciously make choices every day to explore new things, even if they are hard, and I am glad to have met many like-minded people along the way.
 
