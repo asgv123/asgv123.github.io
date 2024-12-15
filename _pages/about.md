@@ -27,4 +27,4 @@ In the long(er) term, I would like to bring education and opportunities to more 
 
 In my free time, I enjoy cooking, hiking, swimming and trading.
 
-Reach out to me any time, preferably by email or Instagram (same handle as GitHub). I'm always up for exciting conversations.
+Reach out to me any time, preferably by email (``<my github ID with 321 instead of 123> [a t] gmail [d ot] com``) or Instagram (same handle as GitHub). I'm always up for exciting conversations.
